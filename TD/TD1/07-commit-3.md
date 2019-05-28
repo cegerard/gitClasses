@@ -6,6 +6,6 @@ Bases on the git tree below:
 What would be the result of following commands ?
 
 ```bash
-git checkout relase
+git checkout release
 git cherry-pick 96e9ce7
 ```
